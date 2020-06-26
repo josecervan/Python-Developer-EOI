@@ -4,4 +4,4 @@ Esta es una aplicación para ilustrar de manera sencilla el funcionamiento del m
 
 Módulos empleados: pypiet, graphics, math, random
 
-Referencias: https://www.youtube.com/watch?v=DQ5qqHukkAc
+Referencias: https://www.youtube.com/watch?v=DQ5qqHukkAc (Quantum Fracture)
