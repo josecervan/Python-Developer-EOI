@@ -7,6 +7,6 @@ Características del sistema:
 
 2 pokemon
 
-1 sólo ataque
+Cada pokemon sólo tiene 1 ataque
 
 Batalla secuencial hasta que uno de los dos es derrotado
