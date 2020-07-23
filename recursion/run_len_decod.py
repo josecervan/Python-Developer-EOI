@@ -1,9 +1,6 @@
 def run_len_decod(lst):
     if lst:
-        symbol = lst[0]
-        reps = lst[1]
-        return symbol * int(reps) + run_len_decod(lst[2:])
-
+        return [*list(lst[0] * lst[1]), *run_len_decod(lst[2:])]
     else:
         return ''
 
@@ -14,3 +11,4 @@ if __name__ == '__main__':
 
     print(f'Coded list: {coded_list}')
     print(f'Decoded list: {decoded_list}')
+    
