@@ -10,7 +10,7 @@ root.title('Rockola')
 # Ventaba de tamaño fijo
 root.config(bd=15, relief='groove', bg='#999999')
 root.geometry("800x600")
-# root.resizable(width=False, height=False)
+root.resizable(width=False, height=False)
 
 # Subtítulo explicativo
 label = Label(root)
