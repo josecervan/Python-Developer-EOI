@@ -26,7 +26,7 @@
 - <a href="https://github.com/josecervan/Python-Developer-EOI/blob/master/module2/exam/fix_csv.py">File management</a>
 - <a href="https://github.com/josecervan/Python-Developer-EOI/tree/master/module2/challenges/6_pynet">GUI</a>
 - <a href="https://github.com/josecervan/Python-Developer-EOI/tree/master/module2/challenges/6_pynet">Databases</a>
-- <a hreaf="https://github.com/josecervan/Python-Developer-EOI/tree/master/module2/exceptions">Error and exception handling</a>
+- <a href="https://github.com/josecervan/Python-Developer-EOI/tree/master/module2/exceptions">Error and exception handling</a>
 - <a href="https://github.com/josecervan/Korean-Name-Generator">Modules and packages</a>
 - <a href="https://github.com/josecervan/Python-Developer-EOI/tree/master/module2/testing">Testing</a>
 - Design patterns
