@@ -14,6 +14,7 @@
 - Interfaces
 
 ## Module 2
+Object-Oriented Programming in Python, focused on Data Science and Machine Learning applications: data structures, functions, classes, objects, user interfaces, databases, functional programming, parallelism, testing and error and exception handling.
 - Python IDEs
 - Language structure
 - Data types and operators
@@ -34,6 +35,9 @@
 - Design patterns
 
 ## Module 3
+Programming of automatic learning models with regression, neural networks and deep learning.
+Programming of predictive models and clusters for data analysis.
+Programming of natural language recognition (NLP) and image recognition models.
 - Artificial Intelligence
 - Data Science
 - Machine Learning
@@ -41,6 +45,17 @@
   - Image Recognition
   - Text Mining
   - Time Series Analysis
+  
+## Tools
+- <a href="https://www.tensorflow.org/">TensorFlow</a>
+- <a href="https://keras.io/">Keras</a>
+- <a href="https://scikit-learn.org/">scikit-learn</a>
+- <a href="https://pandas.pydata.org/">pandas</a>
+- <a href="https://numpy.org/">NumPy</a>
+- <a href="https://matplotlib.org/">Matplotlib</a>
+- <a href="https://www.sqlite.org/index.html">SQLite</a>
+- <a href="https://docs.python.org/3/library/tkinter.html">Tkinter</a>
+- <a href="https://docs.python.org/3/library/">Python Standard Library</a>
   
 ## Author
 - Contact the author <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/cervan/"> via LinkedIn</a>.
