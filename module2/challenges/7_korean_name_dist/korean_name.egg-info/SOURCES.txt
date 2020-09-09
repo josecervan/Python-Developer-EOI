@@ -1,0 +1,14 @@
+setup.py
+korean_name/__init__.py
+korean_name.egg-info/PKG-INFO
+korean_name.egg-info/SOURCES.txt
+korean_name.egg-info/dependency_links.txt
+korean_name.egg-info/top_level.txt
+korean_name/back/__init__.py
+korean_name/back/translator.py
+korean_name/data/__init__.py
+korean_name/data/source_data.py
+korean_name/front/pages/GenPage.py
+korean_name/front/pages/KorNameApp.py
+korean_name/front/pages/StartPage.py
+korean_name/front/pages/__init__.py

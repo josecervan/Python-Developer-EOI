@@ -1,0 +1,11 @@
+setup.py
+paquete/__init__.py
+paquete/quote.py
+paquete.egg-info/PKG-INFO
+paquete.egg-info/SOURCES.txt
+paquete.egg-info/dependency_links.txt
+paquete.egg-info/top_level.txt
+paquete/day_quote/__init__py.py
+paquete/day_quote/dquote.py
+paquete/month_quote/__init__.py
+paquete/month_quote/mquote.py

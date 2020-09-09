@@ -1,0 +1,8 @@
+Dado una lista de enteros, escribe código Python para mover todos los 0s al final de la lista, pero manteniendo el orden relativo de los otros elementos (no zero).
+
+Por ejemplo:
+
+- Input: `[0,1,0,3,12]`
+- Output: `[1,3,12,0,0]`
+
+Nota que tienes que hacerlo en la misma lista (in-place), es decir, no puedes crear una otra lista para almacenar el resultado. Intenta minimizar el número de operaciones.
