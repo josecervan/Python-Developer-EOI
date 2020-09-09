@@ -1,4 +1,4 @@
-# Python-EOI
+# Python Developer EOI
 
 ¡Bienvenid@ a este repo!
 
