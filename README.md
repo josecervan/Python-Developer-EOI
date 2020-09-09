@@ -1,5 +1,5 @@
 <a href="https://www.python.org/"><img src="https://www.python.org/static/img/python-logo.png" title="python.org" alt="python.org"></a>
-
+<a href="https://www.eoi.es/sites/default/files/logo-eoi.png"><img src="https://www.eoi.es/sites/default/files/logo-eoi.png" title="EOI" alt="EOI"></a>
 # Python Developer EOI
 
 > Welcome to this repo!
