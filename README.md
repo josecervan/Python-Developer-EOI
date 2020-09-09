@@ -20,11 +20,11 @@
 - Iterators and generators
 - Definitions
 - Python I/O
-- File management
-- GUI
-- Databases
+- <a href="https://github.com/josecervan/Python-Developer-EOI/blob/master/module2/exam/fix_csv.py">File management</a>
+- <a href="https://github.com/josecervan/Python-Developer-EOI/tree/master/module2/challenges/6_pynet">GUI</a>
+- <a href="https://github.com/josecervan/Python-Developer-EOI/tree/master/module2/challenges/6_pynet">Databases</a>
 - Error and exception handling
-- Modules and packages
+- <a href="https://github.com/josecervan/Korean-Name-Generator">Modules and packages</a>
 - Design patterns
 
 ## Module 3
