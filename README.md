@@ -32,7 +32,7 @@ Object-Oriented Programming in Python, focused on Data Science and Machine Learn
 - <a href="https://github.com/josecervan/Python-Developer-EOI/tree/master/module2/exceptions">Error and exception handling</a>
 - <a href="https://github.com/josecervan/Korean-Name-Generator">Modules and packages</a>
 - <a href="https://github.com/josecervan/Python-Developer-EOI/tree/master/module2/testing">Testing</a>
-- Design patterns
+- <a href="https://github.com/josecervan/Python-Developer-EOI/tree/master/module2/design_patterns">Design patterns</a>
 
 ## Module 3
 Programming of automatic learning models with regression, neural networks and deep learning.
