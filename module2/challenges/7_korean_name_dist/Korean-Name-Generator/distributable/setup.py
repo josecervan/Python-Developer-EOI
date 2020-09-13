@@ -11,7 +11,11 @@ setup(
 		'korean_name',
 		'korean_name.back',
 		'korean_name.data',
+		'korean_name.front.images',
 		'korean_name.front.pages'
 	],
-	package_dir={'korean_name': 'korean_name'}
+	package_dir={'korean_name': 'korean_name'},
+    package_data={
+		'korean_name': ['front\images\*.png']
+	}
 )
