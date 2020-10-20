@@ -39,8 +39,8 @@ Programming of automatic learning models with regression, neural networks and de
 Programming of predictive models and clusters for data analysis.
 Programming of natural language recognition (NLP) and image recognition models.
 - Artificial Intelligence
-- Data Science
-- Machine Learning
+- <a href="https://github.com/josecervan/Python-Developer-EOI/tree/master/module3/data-science">Data Science</a>
+- <a href="https://github.com/josecervan/Python-Developer-EOI/tree/master/module3/machine-learning">Machine Learning</a> 
 - Deep Learning:
   - Image Recognition
   - Text Mining
