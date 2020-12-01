@@ -38,13 +38,13 @@ Object-Oriented Programming in Python, focused on Data Science and Machine Learn
 Programming of automatic learning models with regression, neural networks and deep learning.
 Programming of predictive models and clusters for data analysis.
 Programming of natural language recognition (NLP) and image recognition models.
-- Artificial Intelligence
+- <a href="https://github.com/josecervan/Python-Developer-EOI/tree/master/module3">Artificial Intelligence</a>
 - <a href="https://github.com/josecervan/Python-Developer-EOI/tree/master/module3/data-science">Data Science</a>
 - <a href="https://github.com/josecervan/Python-Developer-EOI/tree/master/module3/machine-learning">Machine Learning</a> 
-- Deep Learning:
-  - Image Recognition
-  - Text Mining
-  - Time Series Analysis
+- <a href="https://github.com/josecervan/Python-Developer-EOI/tree/master/module3">Deep Learning</a>:
+  - <a href="https://github.com/josecervan/Python-Developer-EOI/tree/master/module3/computer-vision">Image Recognition</a>
+  - <a href="https://github.com/josecervan/Python-Developer-EOI/tree/master/module3/text-mining">Text Mining</a>
+  - <a href="https://github.com/josecervan/Python-Developer-EOI/tree/master/module3/time-series">Time Series Analysis</a>
   
 ## Tools
 - <a href="https://www.tensorflow.org/">TensorFlow</a>
